@@ -1,0 +1,6 @@
+﻿  Controls.cpp
+C:\GLP\Project3\Project3\Controls.cpp(103,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\Project3\Project3\Controls.cpp(114,11): warning C4305: '-=': truncation from 'double' to 'float'
+  Main.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\GLP\Project3\Debug\Project3.exe
