@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\GL\GLFW\include\GLFW\glfw3.h(457,1): warning C4005: 'GLFW_KEY_CAPS_LOCK': macro redefinition
+C:\GLP\Project1B\Main.cpp(14): message : see previous definition of 'GLFW_KEY_CAPS_LOCK'
+C:\GLP\Project1B\Main.cpp(216,13): warning C4838: conversion from 'int' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\Project1B\Main.cpp(216,13): warning C4244: 'initializing': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\GLP\Project1B\Main.cpp(221,13): warning C4838: conversion from 'int' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\Project1B\Main.cpp(221,13): warning C4244: 'initializing': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\GLP\Project1B\Main.cpp(226,13): warning C4838: conversion from 'int' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\Project1B\Main.cpp(226,13): warning C4244: 'initializing': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\GLP\Project1B\Main.cpp(231,13): warning C4838: conversion from 'int' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\Project1B\Main.cpp(231,13): warning C4244: 'initializing': conversion from 'int' to 'const GLfloat', possible loss of data
+  Project1B.vcxproj -> C:\GLP\Project1B\Debug\Project1B.exe
